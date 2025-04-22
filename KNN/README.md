@@ -1,1 +1,1 @@
-Run `python gen.py` to generate train.csv and test.csv files. Then run `python sen.py`
+Run `python gen.py` to generate train.csv and test.csv files. Then run `python sen.py`.
